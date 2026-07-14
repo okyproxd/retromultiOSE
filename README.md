@@ -79,6 +79,7 @@ QEMU/Basilisk/SheepShaver run as child processes of the app. Quitting Retro Mult
 
 - **ROM/firmware files** — dumped from real vintage Mac hardware you own, using tools like BlueSCSI-based dumpers or utilities from the 68kmla.org community
 - **OS installer/boot disk images** — imaged from discs you own via **Disk Utility → File → New Image → Image from [disc] → DVD/CD master format**. This specific format matters — a plain/generic rip often strips the Apple Partition Map and HFS boot structure needed to actually boot.
+- You may be able to download software and ROMs online, but please note that this is software piracy and it is illegal to own multiplied copies of these operating systems.
 
 ## Building from source
 

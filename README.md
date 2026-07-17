@@ -42,13 +42,18 @@ This release adds a genuinely major feature and squashes several real stability 
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/three-os-hero-shot.png" width="800" alt="Windows XP, Mac OS X 10.5 Leopard, and Mac OS 9.1 running simultaneously" /><br/>
-  <em>Windows XP, Mac OS X 10.5 Leopard, and Mac OS 9.1 — all running at once, side by side.</em>
+  <img src="screenshots/four-os-hero-shot.png" width="800" alt="Basilisk II, Windows XP, Mac OS 9.1, and Mac OS X 10.5 Leopard all running simultaneously" /><br/>
+  <em>Basilisk II, Windows XP, Mac OS 9.1, and Mac OS X 10.5 Leopard — four backends, all running at once, side by side.</em>
 </p>
 
 <p align="center">
   <img src="screenshots/machines-tab.png" width="45%" alt="Machines tab" />
   <img src="screenshots/setup-tab.png" width="45%" alt="Setup tab" />
+</p>
+
+<p align="center">
+  <img src="screenshots/edit-machine.png" width="600" alt="Edit Machine — change ROM, boot CD, hard disks, and RAM without deleting the machine" /><br/>
+  <em>Edit an existing machine's ROM, boot CD, hard disks, and RAM — no need to delete and recreate it.</em>
 </p>
 
 ## Supported systems
